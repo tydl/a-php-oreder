@@ -29,6 +29,7 @@ $okmsg = "phporder订单提醒您：订单提交成功";  // 提示语设置（�
 
 2、设置调用页面
 在调用页面添加以下代码，例子见index.html：
+
 <div style="margin:0px auto; width:950px;">
 	<!--调用代码  width为宽度、height为高度-->
 	<iframe  src="order/index.htm" width="950" height="640" marginheight="0" marginwidth="0" frameborder="0" scrolling="no">
@@ -37,3 +38,4 @@ $okmsg = "phporder订单提醒您：订单提交成功";  // 提示语设置（�
 </div>
 
       
+----------------------------------------------------------------------------------------------------------------------
